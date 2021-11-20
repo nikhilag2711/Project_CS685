@@ -3,3 +3,6 @@ numpy
 plotly.express
 matplotlib
 folium
+sklearn
+xgboost
+seaborn
