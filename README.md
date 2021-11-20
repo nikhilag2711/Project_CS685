@@ -22,8 +22,9 @@ Create a new virtual environment and install all the dependencies mentioned in r
         - Analysing the AQI for a single day for each hour  - AQI_hour.ipynb
         - Analysing particle concentrations - AQI_particle_concentration.ipynb
         - Analysing impact of pandemic on AQI - Pre and Post Lockdown Comparison.ipynb
+        - Correlation among particles and with AQI - correlation.ipynb
     - Model:
-        - Prediction.ipynb
+        - Prediction model of AQI based on current particle concentrations - Prediction.ipynb
 
 ### Other Links:
 
